@@ -12,3 +12,4 @@ IBAN: IT09X0306967684510749162049
 Intestatario: ASD Romagna Malatestiana
 Causale: Nome Cognome Sala + Cosa si paga (ad esempio Mario Rossi Cesena Ott-Dic)
 Ricordatevi di inviare la ricevuta del bonifico all'indirizzo mail asd-romagnamalatestiana@achillemarozzo.it
+ciaone
