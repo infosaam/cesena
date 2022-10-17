@@ -22,6 +22,8 @@ Ricordatevi di inviare la ricevuta del bonifico all'indirizzo mail asd-romagnama
 <details>
   <summary>Click me</summary>
   
+  <p>
+
   ### Heading
   1. Foo
   2. Bar
@@ -34,4 +36,7 @@ Ricordatevi di inviare la ricevuta del bonifico all'indirizzo mail asd-romagnama
     console.log('Something', something);
   }
   ```
+
+  </p>    
+
 </details>
