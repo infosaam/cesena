@@ -40,3 +40,44 @@ Ricordatevi di inviare la ricevuta del bonifico all'indirizzo mail asd-romagnama
   </p>    
 
 </details>
+
+<div>   
+<button type="button" class="collapsible">+ Collapsible Section</button>
+<div class="content" style="display: none;" markdown="1">
+
+## Ciao
+### Ciaone
+</div>
+</div>
+
+<script type="text/javascript">
+
+    function loadCSS(filename){ 
+
+       var file = document.createElement("link");
+       file.setAttribute("rel", "stylesheet");
+       file.setAttribute("type", "text/css");
+       file.setAttribute("href", filename);
+       document.head.appendChild(file);
+    }
+
+    //just call a function to load your CSS
+    //this path should be relative your HTML location
+    loadCSS("collapse.css");
+
+    var coll = document.getElementsByClassName("collapsible");
+    var i;
+
+    for (i = 0; i < coll.length; i++) {
+      coll[i].addEventListener("click", function() {
+        this.classList.toggle("active");
+        var content = this.nextElementSibling;
+        if (content.style.display === "block") {
+          content.style.display = "none";
+        } else {
+          content.style.display = "block";
+        }
+      });
+    }
+
+</script>
