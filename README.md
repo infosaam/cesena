@@ -19,30 +19,8 @@ Causale: Nome Cognome Sala + Cosa si paga (ad esempio Mario Rossi Cesena Ott-Dic
 
 Ricordatevi di inviare la ricevuta del bonifico all'indirizzo mail asd-romagnamalatestiana@achillemarozzo.it
 
-<details>
-  <summary>Click me</summary>
-  
-  <p>
-
-  ### Heading
-  1. Foo
-  2. Bar
-     * Baz
-     * Qux
-
-  ### Some Code
-  ```js
-  function logSomething(something) {
-    console.log('Something', something);
-  }
-  ```
-
-  </p>    
-
-</details>
-
 <div>   
-<button type="button" class="collapsible">+ Collapsible Section</button>
+<button type="button" class="collapsible active">+ Collapsible Section</button>
 <div class="content" style="display: none;" markdown="1">
 
 ## Ciao
