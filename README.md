@@ -1,10 +1,18 @@
 # Sala di Cesena
 
-## Orari lezioni
+<div>   
+<button type="button" class="collapsible active">+ Orario lezioni</button>
+<div class="content" style="display: none;" markdown="1">
+
 - Martedì: ore 20.30 - 23.00
 - Giovedì: ore 20.45 - 23.00
+</div>
+</div>
 
-## Informazioni di pagamento
+<div>   
+<button type="button" class="collapsible active">+ Informazioni di pagamento</button>
+<div class="content" style="display: none;" markdown="1">
+
 ![](/assets/img/costi.jpg)
 - 55 € di iscrizione, valida per tutto l'anno
 - 40 € mensili, 35 € nel caso in cui saldiate almeno 3 mesi con lo stesso pagamento
@@ -18,13 +26,6 @@ Intestatario: ASD Romagna Malatestiana
 Causale: Nome Cognome Sala + Cosa si paga (ad esempio Mario Rossi Cesena Ott-Dic)
 
 Ricordatevi di inviare la ricevuta del bonifico all'indirizzo mail asd-romagnamalatestiana@achillemarozzo.it
-
-<div>   
-<button type="button" class="collapsible active">+ Collapsible Section</button>
-<div class="content" style="display: none;" markdown="1">
-
-## Ciao
-### Ciaone
 </div>
 </div>
 
