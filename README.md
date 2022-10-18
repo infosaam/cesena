@@ -29,6 +29,14 @@ Ricordatevi di inviare la ricevuta del bonifico all'indirizzo mail asd-romagnama
 </div>
 </div>
 
+<div>   
+<button type="button" class="collapsible active">+ Prossimi eventi</button>
+<div class="content" style="display: none;" markdown="1">
+
+- Qualifiche Nord / Sud: coming soon...
+</div>
+</div>
+
 <script type="text/javascript">
 
     function loadCSS(filename){ 
