@@ -33,6 +33,8 @@ Ricordatevi di inviare la ricevuta del bonifico all'indirizzo mail asd-romagnama
 <button type="button" class="collapsible active">+ Prossimi eventi</button>
 <div class="content" style="display: none;" markdown="1">
 
+- Sabato 22 Ottobre 2022: Sparring Day dai nostri amici di Hema Ravenna! Informazioni sull'[evento facebook](https://fb.me/e/1Vk5zS6bi).
+- Domenica 23 Ottobre 2022: Mensile di Due Mani di Marozzo ad Imola! Esercizi la mattina, a cura di Andrea Reggi, e sparring al pomeriggio.
 - Qualifiche Nord / Sud: coming soon...
 </div>
 </div>
