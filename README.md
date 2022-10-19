@@ -14,8 +14,8 @@
 <div class="content" style="display: none;" markdown="1">
 
 ![](/assets/img/costi.jpg)
-- 55 € di iscrizione, valida per tutto l'anno
-- 40 € mensili, 35 € nel caso in cui saldiate almeno 3 mesi con lo stesso pagamento
+- 55 € di iscrizione, valida per tutto l'anno;
+- 40 € mensili, 35 € nel caso in cui saldiate almeno 3 mesi con lo stesso pagamento.
 
 Per quanto riguarda le modalità di pagamento, il bonifico rimane la modalità preferita, ma in caso vi venga più comodo si accettano anche contanti (da pagare a Ruben Tura).
 
