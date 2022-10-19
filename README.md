@@ -35,7 +35,13 @@ Causale: Nome Cognome Sala + Cosa si paga (ad esempio Mario Rossi Cesena Ott-Dic
 
 - Sabato 22 Ottobre 2022: **Sparring Day dai nostri amici di Hema Ravenna!** Informazioni sull'[evento facebook](https://fb.me/e/1Vk5zS6bi).
 - Domenica 23 Ottobre 2022: **Mensile di Due Mani di Marozzo ad Imola!** Esercizi la mattina, a cura di Andrea Reggi, e sparring al pomeriggio.
-- **Qualifiche Nord / Sud**: coming soon...
+- Sabato 29 e Domenica 30 Ottobre 2022: **Montefiore Medievale** al centro commerciale Montefiore di Cesena, dalle ore 15:30 alle ore 19:30.
+
+## Circuito Gare 2022-2023
+- **Qualificazioni Sud**: 17-18 Dicembre 2022, Palestrina
+- **Qualificazioni Nord**: 25-26 Febbraio 2023, Cesena
+- **Assoluti**: 20-21 Maggio 2023, Sportilia
+![](/assets/img/gare22-23.jpg)
 </div>
 </div>
 
